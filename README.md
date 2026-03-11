@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **Cool Projects in Java, JavaScript, React, ML**
 
 - 📫 How to reach me: official **ashutosh.dixit@newfold.com**
-- 📫 How to reach m:e personal **adixit.ashu@gmail.com**
+- 📫 How to reach m:e personal ****
 
 - ⚡ Fun fact **I love Ethics**
 
